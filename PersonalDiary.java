@@ -108,7 +108,7 @@ public class PersonalDiary {
         }
     }
 
-    private static void listEntries() {
+    private static void listEntries() { // This method show all diary entries
         File dir = new File(DIARY_PATH);
         File[] files = dir.listFiles((d, name) -> name.endsWith(".txt"));
 
