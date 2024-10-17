@@ -1,4 +1,4 @@
-### Detailed Explanation of this Personal Diary Application in Java Project
+### Detailed Explanation of this Personal Diary Application Project
 
 This project simulates a simple personal diary, where a user can create, view, edit, delete, and list diary entries stored in text files using Java's file handling mechanisms. Let’s walk through the code step-by-step, explaining each part in detail.
 
